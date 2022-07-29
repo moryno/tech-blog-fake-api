@@ -4,67 +4,56 @@
       "id": 1,
       "title": "The Song About the Song",
       "desc": "This is the song about the show! And it's a show with a song about The Songs we're gonna sing We'll sing you the songs about The song about the show! Songs about the singing we'll do! Songs about the songs about The song about the show! Songs that we'll be singing to you! You'll hear us singing songs about The songs about the songs, The songs about the songs about the songs-- Songs about the songs about The songs about the songs, The songs about the songs about the show!",
-      "photo": "https://images.pexels.com/photos/257897/pexels-photo-257897.jpeg",
+      "photo": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c29mdHdhcmUlMjBkZXZlbG9wbWVudHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=700&q=60",
       "author": "Bryan Higgins",
       "category": [
         "art, js, music"
       ],
-      "date": "15th Jan 2021"
+      "date": "Wed Jan 2021"
     },
     {
       "id": 2,
       "title": "My Pickle",
       "desc": "...may my pickle stroll about hungryand fearless and thirsty and suppleand even if it's sunday may it be wrongfor whenever gherkins are green they are not young and may my sweet and sour do nothing usefullyand love yourself so more than pickle-juiceythere's never been quite such a fool who could failpulling all the sky over him with one bite.",
-      "photo": "https://wallpapersmug.com/download/1366x768/a91749/jinx-arcane-artwork.jpg",
+      "photo": "https://images.unsplash.com/photo-1629904853716-f0bc54eea481?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "author": "Jon Glass",
       "category": [
         "life, movie, music"
       ],
-      "date": "19th Jan 2020"
+      "date": "Tue Jan 2020"
     },
     {
       "id": 3,
       "title": "Ithaca",
       "desc": "When you set out on your journey to Ithaca, pray that the road is long, full of adventure, full of knowledge. The Brownings and the Mossbergs, the angry Colts -- do not fear them: You will never find such as these on your path, if your thoughts remain lofty, if a fine emotion touches your spirit and your body. The StrapGuns and the Uzis, the fierce Technines you will never encounter, if you do not carry them within your soul, if your soul does not set them up before you. Pray that the road is long.... ",
-      "photo": "https://images.pexels.com/photos/257897/pexels-photo-257897.jpeg",
+      "photo": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "author": "T Y Alevizos",
       "category": [
         "art, life, sport"
       ],
-      "date": "02 Dec 2022"
+      "date": "Thur Dec 2022"
     },
     {
       "id": 4,
-      "title": "The Visitor",
+      "title": "The Wild",
       "desc": "A ferret visited my house with little tiny cymbals. I felt that I should pick him up but couldn't find my thimbles.He jumped into my dresser drawer (The one with rags and papers) I slammed it shut and taped it tight and gave it to the neighbors.The neighbors liked the furniture but did not like the ferret. They took it to a hardware store to trade it for a parrot.The parrot, now, it sings to me across the narrow alley. I'd like to take it far away, But it's too big to carry.If animals come in your house just make them go away. You can give them to your friends but still you'll have to pay.",
-      "photo": "https://wallpapersmug.com/download/1366x768/a91749/jinx-arcane-artwork.jpg",
+      "photo": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mzh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
       "author": "Alan R. Turner.",
       "category": [
-        "food, python, music"
+        "life, music"
       ],
-      "date": "15th Aug 2021"
+      "date": "Mon Aug 2021"
     },
     {
       "id": 5,
-      "title": "The Witcher",
+      "title": "Coffee",
       "desc": "A ferret visited my house with little tiny cymbals. I felt that I should pick him up but couldn't find my thimbles.He jumped into my dresser drawer (The one with rags and papers) I slammed it shut and taped it tight and gave it to the neighbors.The neighbors liked the furniture but did not like the ferret. They took it to a hardware store to trade it for a parrot.The parrot, now, it sings to me across the narrow alley. I'd like to take it far away, But it's too big to carry.If animals come in your house just make them go away. You can give them to your friends but still you'll have to pay.",
-      "photo": "https://wallpapersmug.com/download/1366x768/a91749/jinx-arcane-artwork.jpg",
+      "photo": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "author": "john",
       "category": [
         "food, python, music"
       ],
-      "date": "15th Aug 2021"
-    },
-    {
-      "title": "rrr",
-      "desc": "wwwws",
-      "author": "jonn",
-      "date": "2022-07-28T14:46:14.437Z",
-      "photo": "https://firebasestorage.googleapis.com/v0/b/tech-blog-5767d.appspot.com/o/1659019590564featureuserpersona.jpg?alt=media&token=6bb06505-0c17-4de9-8c7e-51a6a8c76ae4",
-      "category": [
-        "www"
-      ],
-      "id": 6
+      "date": "Sat Aug 2021"
     }
   ],
   "categories": [
@@ -81,26 +70,6 @@
       "email": "dav@email.com",
       "password": "1234",
       "profile": "https://media.istockphoto.com/photos/millennial-male-team-leader-organize-virtual-workshop-with-employees-picture-id1300972574?b=1&k=20&m=1300972574&s=170667a&w=0&h=2nBGC7tr0kWIU8zRQ3dMg-C5JLo9H2sNUuDjQ5mlYfo="
-    },
-    {
-      "username": "jonn",
-      "password": "1234",
-      "id": 2
-    },
-    {
-      "username": "jonn",
-      "password": "1234",
-      "id": 3
-    },
-    {
-      "username": "jonn",
-      "password": "1234",
-      "id": 4
-    },
-    {
-      "username": "jonn",
-      "password": "1234",
-      "id": 5
     }
   ]
 }
